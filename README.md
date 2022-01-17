@@ -1,4 +1,4 @@
-- 👋 @Computences
+- 👋 @computences
 - 👀 Architecte du numérique
 - 👀 AMOA "Transformation numérique" auprès des dirigeants d'entreprises en croissance
 - 📫 https://www.computences.com/
